@@ -1,0 +1,1 @@
+This repository showcases a subtle yet impactful bug in HTML involving the visibility of a div element. The `myFunction()` hides a div, but there's no mechanism to restore its visibility. This often leads to unexpected behavior and a degraded user experience.  The solution demonstrates how to properly manage element visibility for better control and usability.
